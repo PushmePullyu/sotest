@@ -1,0 +1,3 @@
+dsotest
+*.o
+*.so
